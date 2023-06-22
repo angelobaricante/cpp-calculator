@@ -1,7 +1,6 @@
 #include <iostream>
 #include <sstream>
 #include <cstdlib>
-#include <string>
 
 using namespace std;
 double result;
